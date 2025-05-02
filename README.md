@@ -1,26 +1,47 @@
-## Hi there 👋
+<div style="background: #0d1116; border-radius:10px">
+  
+<div align="center">
+  <img src="https://profile-counter.glitch.me/faiz3/count.svg?"  />
+</div>
 
-<!--
-**Faiz3/faiz3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h3 align="center">My name Faiz Hidayat From Indonesia</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- ![faiz3's GitHub stats](https://github-readme-stats.vercel.app/api?username=faiz3&show_icons=true\&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faiz3\&layout=compact)
+###
 
--->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+</div>
 
+###
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=faiz3\&show_icons=true\&rank_icon=github\&theme=dark#gh-dark-mode-only)](https://github.com/Faiz3)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faiz3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+</div>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=faiz3&layout=compact\&theme=dark#gh-dark-mode-only)](https://github.com/Faiz3)
+###
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=faiz3&theme=github-dark&hide_border=true&locale=id&short_numbers=true&mode=weekly)](https://git.io/streak-stats) -->
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)-->
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=faiz3&theme=github-dark" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faiz3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faiz3&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+</div>
 
