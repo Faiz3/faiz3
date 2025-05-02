@@ -33,10 +33,9 @@
 </div>
 
 ###
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=faiz3&theme=github-dark&hide_border=true&locale=id&short_numbers=true&mode=weekly)](https://git.io/streak-stats) -->
-<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)-->
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=faiz3&theme=github-dark" height="150" alt="streak graph" /> <br>
+  <!--<img src="https://streak-stats.demolab.com/?user=faiz3&theme=github-dark" height="150" alt="streak graph" /> <br>-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faiz3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=faiz3&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
